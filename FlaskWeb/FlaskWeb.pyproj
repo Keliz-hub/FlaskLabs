@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="FlaskWeb\templates\login.html" />
+    <Content Include="FlaskWeb\templates\registration.html" />
     <Content Include="FlaskWeb\templates\userProfile.html" />
     <Content Include="requirements.txt" />
     <Content Include="FlaskWeb\static\content\bootstrap.css" />
